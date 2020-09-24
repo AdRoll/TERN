@@ -6,7 +6,7 @@ TURTLEDOVE Enhancements with Reduced Networking
 ## Table of Contents
 
 - [Introduction](https://github.com/AdRoll/TERN#introduction)
-- [Introduction](https://github.com/AdRoll/TERN#operating-principles)
+- [Operating Principles](https://github.com/AdRoll/TERN#operating-principles)
 - [Authors](https://github.com/AdRoll/TERN#authors)
 - [Stakeholder Feedback / Opposition](https://github.com/AdRoll/TERN#stakeholder-feedback--opposition)
 - [0. Before Advertising Begins](https://github.com/AdRoll/TERN#0-before-advertising-begins)
