@@ -6,6 +6,7 @@ TURTLEDOVE Enhancements with Reduced Networking
 ## Table of Contents
 
 - [Introduction](https://github.com/AdRoll/TERN#introduction)
+- [Introduction](https://github.com/AdRoll/TERN#operating-principles)
 - [Authors](https://github.com/AdRoll/TERN#authors)
 - [Stakeholder Feedback / Opposition](https://github.com/AdRoll/TERN#stakeholder-feedback--opposition)
 - [0. Before Advertising Begins](https://github.com/AdRoll/TERN#0-before-advertising-begins)
@@ -85,6 +86,24 @@ These ideas are drawn from many authors. Inspiration is taken from discussions i
 - [Frequency Capping and Optimization](https://github.com/W3C/web-advertising/blob/master/frequency-capping-and-optimization.md)
 
 Reading through the original TURTLEDOVE proposal is a necessary prerequisite to understanding this document.
+
+----------------
+
+## Operating Principles
+
+While writing this proposal and thinking through the technical problems herein, we kept three principles
+in mind:
+
+1. Lacking an agreed-upon problem statement, we took it as a constraint that we don't want any third party
+having access to users' general browsing patterns on the web as a whole.
+2. Given this constraint, and only this constraint, how can we maximize and retain the functionality that
+currently exists for the ad tech industry today?
+3. Since each browser vendor is the ultimate arbiter of what happens in the browser, and this proposal is
+modeled after [TURTLEDOVE](https://github.com/WICG/turtledove/), we are trying to stay close to the nature
+of TURTLEDOVE as originally proposed.
+
+We aim to be accepting to GitHub issues, PRs, or other proposed changes that fall under this set of
+principles.
 
 ----------------
 
