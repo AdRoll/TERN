@@ -3,6 +3,12 @@ TURTLEDOVE Enhancements with Reduced Networking
 
 ----------------
 
+# THIS DOCUMENT HAS OFFICIALLY BEEN MOVED.
+
+Please see [its new location in WICG TURTLEDOVE repository.](https://github.com/WICG/turtledove/blob/master/TERN.md)
+
+----------------
+
 ## Table of Contents
 
 - [Introduction](https://github.com/AdRoll/TERN#introduction)
